@@ -23,7 +23,7 @@ PROBLEM STATEMENTS
 
 9. Job Satisfaction Rating
 
-10.Education field wise Attrition
+10. Education field wise Attrition
 
 11. Attrition Rate by Gender for different age group
 
